@@ -220,7 +220,7 @@ var channel_max = 10;										// number of channels
     items: 1
   });
   
-// Mots croisés c'est une erreur qui arrive, attention les yeux
+// Mots croisés, attention les yeux
 
 var grid = [	['1', 0, 0, 0, 0, 0, 0, 0, 0, 0],
   ['1', 0, 0, 0, 0, 0, 0, 0, 0, 0],
